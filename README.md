@@ -2,4 +2,4 @@
 
 Hi everyone,
 
-This folder is a jumble of things that can't be put in order yet.
+This repo is a jumble of things that can't be put in order yet.
